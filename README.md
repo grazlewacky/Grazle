@@ -5,25 +5,22 @@ Doesn't support IE8
 	
 
 TO IMPORT SINGLE FUNCTIONS:
-
 import {$first} from "./modules/grazle"; 
 
 
-TO USE IN SITU:
 
+TO USE IN SITU:
 const firstDiv = $first('div'); 
 
 
-OR...
+or...
 
 
 TO IMPORT ALL FUNCTIONS:
-
 import * as g from "./modules/grazle"; 
 
 
 TO USE IN SITU:
-
 const firstDiv = g.$first('div');
 
 ...etc
