@@ -1,30 +1,28 @@
 # Grazle
 Helper library with jQuery-like tools/function for javascript projects
 
-
-	Updated October 2019
-	Doesn't support IE8
+Doesn't support IE8
 	
 
-	TO IMPORT SINGLE FUNCTIONS:
-	import {$first} from "./modules/grazle"; 
+TO IMPORT SINGLE FUNCTIONS:
+import {$first} from "./modules/grazle"; 
 	
-	TO USE IN SITU:
-	const firstDiv = $first('div'); 
+TO USE IN SITU:
+const firstDiv = $first('div'); 
 
 
-	OR...
+OR...
 
 
-	TO IMPORT ALL FUNCTIONS:
-	import * as g from "./modules/grazle"; 
+TO IMPORT ALL FUNCTIONS:
+import * as g from "./modules/grazle"; 
 
-	TO USE IN SITU:
-	const firstDiv = g.$first('div');
-	...etc
+TO USE IN SITU:
+const firstDiv = g.$first('div');
+...etc
 
 
-	Add to it and change it to make it yours.
+Add to it and change it to make it yours.
 
 
 
