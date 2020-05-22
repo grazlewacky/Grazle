@@ -1,5 +1,5 @@
 # Grazle
-Helper library with jQuery-like tools/function for javascript projects
+Lightweight (19kb) helper library with jQuery-like tools/function for javascript projects
 
 
 Doesn't support IE8
