@@ -292,7 +292,7 @@
 
 	export function $addClass(el, className) {
 	    if (el.classList) el.classList.add(className);
-	    else if (!hasClass(el, className)) el.className += ' ' + className;
+	    else if (!$hasClass(el, className)) el.className += ' ' + className;
 	}
 
 	export function $removeClass(el, className) {
