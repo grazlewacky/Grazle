@@ -186,6 +186,7 @@
 	}
 
 	//Get element by tag name
+	//e.g.: g.$tagName('header')[0]
 	export function $tagName(selector) {
 	    return document.getElementsByTagName(selector);
 	}
