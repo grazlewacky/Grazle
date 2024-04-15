@@ -1,6 +1,8 @@
 # Grazle
 Lightweight (19kb) helper library with jQuery-like tools/function for javascript projects
 
+As an extension of some Javascript review I made this helper library as a way of reviewing Javascript DOM methods.
+
 
 Doesn't support IE8
 	
